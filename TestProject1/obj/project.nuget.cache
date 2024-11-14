@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Wh57Oq5PTQIccenGJX6CP645X02CCnFAx0d6q0O2d2LOXB7qDpG2+DTwmqCq/UKcW4aWKZnIJVftMzAdPO67g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\alves\\OneDrive - sluz\\SchulJahr_2023-2024_2IMS\\Informatik\\M320\\Projektarbeit_M320_Tomas_Igor\\fussballmanschaftverwaltungssystem\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"NUnit.Analyzers (>= 3.6.1)\" kann für \"net8.0\" nicht aufgelöst werden. PackageSourceMapping ist aktiviert. Die folgende(n) Quelle(n) wurde(n) nicht berücksichtigt: nuget.org.",
+      "libraryId": "NUnit.Analyzers",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"Microsoft.NET.Test.Sdk (>= 17.6.0)\" kann für \"net8.0\" nicht aufgelöst werden. PackageSourceMapping ist aktiviert. Die folgende(n) Quelle(n) wurde(n) nicht berücksichtigt: nuget.org.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"NUnit (>= 3.13.3)\" kann für \"net8.0\" nicht aufgelöst werden. PackageSourceMapping ist aktiviert. Die folgende(n) Quelle(n) wurde(n) nicht berücksichtigt: nuget.org.",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"Newtonsoft.Json (>= 13.0.3)\" kann für \"net8.0\" nicht aufgelöst werden. PackageSourceMapping ist aktiviert. Die folgende(n) Quelle(n) wurde(n) nicht berücksichtigt: nuget.org.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"coverlet.collector (>= 6.0.0)\" kann für \"net8.0\" nicht aufgelöst werden. PackageSourceMapping ist aktiviert. Die folgende(n) Quelle(n) wurde(n) nicht berücksichtigt: nuget.org.",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"NUnit3TestAdapter (>= 4.2.1)\" kann für \"net8.0\" nicht aufgelöst werden. PackageSourceMapping ist aktiviert. Die folgende(n) Quelle(n) wurde(n) nicht berücksichtigt: nuget.org.",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

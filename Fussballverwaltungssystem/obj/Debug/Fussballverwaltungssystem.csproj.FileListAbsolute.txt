@@ -1,0 +1,9 @@
+C:\Users\alves\OneDrive - sluz\SchulJahr_2023-2024_2IMS\Informatik\M320\Projektarbeit_M320_Tomas_Igor\fussballmanschaftverwaltungssystem\Fussballverwaltungssystem\bin\Debug\Fussballverwaltungssystem.dll
+C:\Users\alves\OneDrive - sluz\SchulJahr_2023-2024_2IMS\Informatik\M320\Projektarbeit_M320_Tomas_Igor\fussballmanschaftverwaltungssystem\Fussballverwaltungssystem\bin\Debug\Fussballverwaltungssystem.pdb
+C:\Users\alves\OneDrive - sluz\SchulJahr_2023-2024_2IMS\Informatik\M320\Projektarbeit_M320_Tomas_Igor\fussballmanschaftverwaltungssystem\Fussballverwaltungssystem\obj\Debug\Fussballverwaltungssystem.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive - sluz\SchulJahr_2023-2024_2IMS\Informatik\M320\Projektarbeit_M320_Tomas_Igor\fussballmanschaftverwaltungssystem\Fussballverwaltungssystem\obj\Debug\Fussballverwaltungssystem.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive - sluz\SchulJahr_2023-2024_2IMS\Informatik\M320\Projektarbeit_M320_Tomas_Igor\fussballmanschaftverwaltungssystem\Fussballverwaltungssystem\obj\Debug\Fussballverwaltungssystem.dll
+C:\Users\alves\OneDrive - sluz\SchulJahr_2023-2024_2IMS\Informatik\M320\Projektarbeit_M320_Tomas_Igor\fussballmanschaftverwaltungssystem\Fussballverwaltungssystem\obj\Debug\Fussballverwaltungssystem.pdb
+C:\Users\alves\OneDrive - sluz\SchulJahr_2023-2024_2IMS\Informatik\M320\Projektarbeit_M320_Tomas_Igor\fussballmanschaftverwaltungssystem\Fussballverwaltungssystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alves\OneDrive - sluz\SchulJahr_2023-2024_2IMS\Informatik\M320\Projektarbeit_M320_Tomas_Igor\fussballmanschaftverwaltungssystem\Fussballverwaltungssystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alves\OneDrive - sluz\SchulJahr_2023-2024_2IMS\Informatik\M320\Projektarbeit_M320_Tomas_Igor\fussballmanschaftverwaltungssystem\Fussballverwaltungssystem\obj\Debug\Fussballverwaltungssystem.csproj.CopyComplete
